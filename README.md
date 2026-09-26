@@ -291,3 +291,5 @@ Found a mistake? Have an idea for another calculator or topic?
 Feel free to open an **Issue** or submit a **Pull Request**.
 
 If this project helps you understand finance a little better, that's exactly what I hoped it would do.
+
+Last updated: September 2026
